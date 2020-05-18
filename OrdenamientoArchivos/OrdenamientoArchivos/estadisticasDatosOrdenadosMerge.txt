@@ -1,0 +1,44 @@
+10 datos
+
+Fecha y hora de cuando inicio el programa
+Sat May 09 20:32:17 2020
+
+Fecha y hora de cuando termino el programa
+Sat May 09 20:32:17 2020
+
+Tiempo de ejecucion
+0.000000
+
+100 datos
+
+Fecha y hora de cuando inicio el programa
+Sat May 09 20:36:31 2020
+
+Fecha y hora de cuando termino el programa
+Sat May 09 20:36:31 2020
+
+Tiempo de ejecucion
+0.000000
+
+1000 datos
+
+Fecha y hora de cuando inicio el programa
+Sat May 09 20:38:00 2020
+
+Fecha y hora de cuando termino el programa
+Sat May 09 20:38:00 2020
+
+Tiempo de ejecucion
+0.000000
+
+10000 datos
+
+Fecha y hora de cuando inicio el programa
+Sat May 09 20:41:04 2020
+
+Fecha y hora de cuando termino el programa
+Sat May 09 20:41:04 2020
+
+Tiempo de ejecucion
+0.002000
+
